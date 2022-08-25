@@ -1,0 +1,1 @@
+/opt/jupyterhub/anaconda/bin/python /data/ds1/bin/check.py "$@"
